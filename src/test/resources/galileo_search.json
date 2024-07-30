@@ -1,0 +1,20 @@
+{
+    "adultCount": 1,
+    "cabinClass": "economy",
+    "childCount": 0,
+    "currency": "INR",
+    "destination": "HYD",
+    "iataAgent": "paytm",
+    "infantCount": 0,
+    "origin": "DEL",
+    "isInternational": true,
+    "isCombined": false,
+    "isRoundtrip": false,
+    "requestId": "sms_9f666488-13d1-4027-bfbf-6e9fbde465f2",
+    "originTimeZone": "Asia/Calcutta",
+    "destinationTimeZone": "Europe/London",
+    "forcedSearch": false,
+    "specialFareType": "",
+    "departureDate": "2024-08-05T00:00:00.000+05:30",
+    "autoSwitchFlag": "travelport_gds"
+}
